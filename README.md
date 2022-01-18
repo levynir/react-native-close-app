@@ -1,4 +1,7 @@
 # react-native-close-app
+
+Please don't use this, as this is not maintained
+
 React Native Code to Exit/Close Application. It uses the built-in `BackHandle`r module on android but on ios it requires a new native module.
 
 # Installation
