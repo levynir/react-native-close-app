@@ -1,4 +1,6 @@
 # react-native-close-app
+*** **DEPRECATED and NOT MAINTAINED anymore, mostly since I don't need it anymore** ***
+
 React Native code snippet to Exit/Close Application. It uses the built-in `BackHandler` module on android but on ios it requires a new native module.
 
 # Installation
